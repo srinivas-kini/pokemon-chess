@@ -1,8 +1,6 @@
 #
 # raichu.py : Play the game of Raichu
 #
-# PLEASE PUT YOUR NAMES AND USER IDS HERE!
-#
 # Based on skeleton code by D. Crandall, Oct 2021
 #
 
